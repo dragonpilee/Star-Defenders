@@ -48,9 +48,6 @@ pip install pygame PyOpenGL numpy
 
 ---
 
-## 📸 Screenshots
-
-*(Add your own screenshots here if you'd like!)*
 
 ---
 
