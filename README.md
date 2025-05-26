@@ -1,7 +1,13 @@
-
 # Star Defenders
 
-**Star Defenders** is a retro-style 2D space shooter built using **Python**, **Pygame**, and **OpenGL**. Inspired by the arcade classic Galaxian, this game adds modern enhancements like procedural starfields, stereo sound effects, and smooth animations—all in crisp 720p.
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![Pygame](https://img.shields.io/badge/Engine-Pygame-green)
+![OpenGL](https://img.shields.io/badge/Graphics-OpenGL-orange)
+![NumPy](https://img.shields.io/badge/Math-NumPy-purple)
+![Game](https://img.shields.io/badge/Type-2D%20Shooter-yellow)
+
+> **Developed by Alan Cyril Sunny**  
+> If you find this project helpful, please consider ⭐ [starring the repository](https://github.com/dragonpilee/star-defenders)!
 
 ---
 
@@ -48,9 +54,6 @@ pip install pygame PyOpenGL numpy
 
 ---
 
-
----
-
 ## 📦 How to Run
 
 ```bash
@@ -77,7 +80,14 @@ The game loop is asynchronous using `asyncio`, which works with both desktop and
 
 ## 📄 License
 
-This project is licensed under the MIT License. Feel free to use, modify, or distribute it!
+This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, or distribute it!
+
+---
+
+For more information, updates, and documentation, visit the  
+👉 [GitHub Repository](https://github.com/dragonpilee/star-defenders)
+
+Feel free to fork, star ⭐, and contribute!
 
 ---
 
